@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Player_jab
+  m_Name: player_jab
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -22,38 +22,38 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: 6169854800232307098, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.025
+    - time: 0.02
       value: {fileID: 2698132348097514249, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.05
+    - time: 0.04
       value: {fileID: -4381953679923369555, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.075
+    - time: 0.06
       value: {fileID: -4912213423438737622, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.1
+    - time: 0.08
       value: {fileID: 2998057267774200458, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.125
+    - time: 0.1
       value: {fileID: -2691396712071224678, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.15
+    - time: 0.12
       value: {fileID: 7836379055437655600, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.175
+    - time: 0.14
       value: {fileID: 3712468754622055054, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.2
+    - time: 0.16
       value: {fileID: -9097611005129806515, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.225
+    - time: 0.18
       value: {fileID: -7225381202528544571, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.25
+    - time: 0.2
       value: {fileID: 6962126464405799894, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.275
+    - time: 0.22
       value: {fileID: 2431167048866900559, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.3
+    - time: 0.24
       value: {fileID: 4936452505912239550, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
-    - time: 0.325
+    - time: 0.26
       value: {fileID: 4619111899032228097, guid: 9c84555f04e164f40a972009b56cd3f7, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
-  m_SampleRate: 40
+  m_SampleRate: 50
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -89,7 +89,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.35
+    m_StopTime: 0.28
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
