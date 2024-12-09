@@ -291,8 +291,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
+
     "com.unity.services.analytics": {
       "version": "6.0.1",
       "depth": 1,
@@ -315,7 +314,7 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> f1484e88521a93f5ba8cbff831243d0e744aa8db
+
     "com.unity.settings-manager": {
       "version": "2.0.1",
       "depth": 2,
