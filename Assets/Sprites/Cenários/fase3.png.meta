@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3e94a48829ee50843bf99334dca1f7f2
+guid: f1e723b3e75c8184fb4472af9da926c9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4620465009081912477
-    second: sprite_fase_3_0
+      213: 8927379438693647963
+    second: Fase 3 atualizado (Americo & Otavio)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,16 +96,29 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite_fase_3_0
+      name: Fase 3 atualizado (Americo & Otavio)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 8000
+        width: 9004
         height: 384
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 363fc84fd8fc0efb0800000000000000
-      internalID: -4620465009081912477
+      spriteID: b56067adc4c64eb70800000000000000
+      internalID: 8927379438693647963
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sprite_fase_3_0: -4620465009081912477
+      Fase 3 atualizado (Americo & Otavio)_0: 8927379438693647963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
