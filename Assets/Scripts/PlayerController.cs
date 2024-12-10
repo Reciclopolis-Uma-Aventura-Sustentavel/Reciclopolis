@@ -95,7 +95,7 @@ public class PlayerController : MonoBehaviour
 
     void UpdateAnimator() {
 
-        playerAnimator.SetBool("is_walking", isWalking);
+        playerAnimator.SetBool("isWalking", isWalking);
     
     }
 
