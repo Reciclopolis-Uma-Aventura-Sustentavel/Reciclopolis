@@ -29,7 +29,7 @@ public class LevelLoader : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Return))
         {
 
-            StartCoroutine(CarregarFase("fase1"));
+            StartCoroutine(CarregarFase("Fase1"));
 
             
         }
